@@ -1,0 +1,1 @@
+{"materials": {"ansible": {"branch": "master", "repository": "helloangular/bm-sellside-ansible-20261028", "revision": "07d2575524dad7185de29bf11cd58eb4d15ede57"}, "quality": {"branch": "master", "repository": "helloangular/bm-sellside-gocd-quality-check-20261028", "revision": "b8541e6f43053244557f8937ac3ad02e78d02e28"}}, "version": 1}
